@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "MTickerDataAnalysis"
 Sub StockTicker()
 
 Dim ws As Worksheet
